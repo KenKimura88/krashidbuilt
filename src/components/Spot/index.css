@@ -1,0 +1,18 @@
+.card-wrap {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  border: 2px solid black;
+}
+.back-wrap {
+  width: 100px;
+  height: 100px;
+}
+.car-position {
+  height: 90px;
+  width: auto;
+  margin: auto;
+}
+.possible {
+  background-color: red;
+}
